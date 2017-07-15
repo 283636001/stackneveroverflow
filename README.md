@@ -11,20 +11,26 @@ Demo: https://stackneveroverflow.herokuapp.com
 
 ## Get Start
 
-`git clone git@github.com:liaoziyang/stackneveroverflow.git`
+```
+git clone git@github.com:liaoziyang/stackneveroverflow.git
 
-`cd stackneveroverflow`
+cd stackneveroverflow
+```
 
 To get start, please run:
-`bundle install`
+```
+bundle install
+```
 
 if you get some error, please search the error message and install the dependencies.
 
 To set up the database, please run:
 
-`rake db:create`
+```
+rake db:create
 
-`rake db:migrate`
+rake db:migrate
+```
 
 ### Main feature
 
